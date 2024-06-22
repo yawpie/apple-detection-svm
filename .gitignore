@@ -1,2 +1,7 @@
 dataset/
 resized/
+
+**/*/__pycache__/
+.vscode/
+
+preprocessed/
